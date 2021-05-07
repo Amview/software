@@ -4,5 +4,5 @@
 
 ## windows
 #### 数据库
-* [heidisql](https://www.heidisql.com/download.php)
+* [heidisql](https://www.heidisql.com/download.php)  *图形mysql管理工具*
 ## linux
