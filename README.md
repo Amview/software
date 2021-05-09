@@ -1,8 +1,8 @@
-* [windows](##windows)
-  * [数据库](####数据库)
-* [linux](##linux)
-  * [music](####music)
-  * [输入法](####输入法)
+* [windows](#windows)
+  * [数据库](#数据库)
+* [linux](#linux)
+  * [music](#music)
+  * [输入法](#输入法)
 ## windows
 #### 数据库
 * [heidisql](https://www.heidisql.com/download.php)  *图形mysql管理工具*
