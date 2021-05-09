@@ -1,6 +1,7 @@
 * [windows](#windows)
   * [数据库](#数据库)
 * [linux](#linux)
+* * [数据库](#数据库)
   * [music](#music)
   * [输入法](#输入法)
 ## windows
@@ -9,6 +10,8 @@
 * []()
 * []()
 ## linux
+#### 数据库
+* [dbeaver](https://dbeaver.io/download/)
 #### music
 * [QQLinux](https://im.qq.com/linuxqq/index.html)
 * [QQMusic](https://y.qq.com/download/download.html)
