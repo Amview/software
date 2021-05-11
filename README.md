@@ -4,6 +4,7 @@
   * [数据库](#数据库)
   * [music](#music)
   * [输入法](#输入法)
+  * [文档](#文档)
 ## windows
 #### 数据库
 * [heidisql](https://www.heidisql.com/download.php)  *图形mysql管理工具*
@@ -21,3 +22,5 @@
 #### 输入法
 * [百度输入法linux](http://srf.baidu.com/site/guanwang_linux/index.html)
 * []()
+##### 文档
+* [Gnumeric]() 电子表格软件，可以用来转换文件格式
