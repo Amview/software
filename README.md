@@ -23,4 +23,4 @@
 * [百度输入法linux](http://srf.baidu.com/site/guanwang_linux/index.html)
 * []()
 ##### 文档
-* [Gnumeric]() 电子表格软件，可以用来转换文件格式
+* [Gnumeric]() 电子表格软件，可以用ssconvert来转换文件格式
