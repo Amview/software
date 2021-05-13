@@ -1,5 +1,6 @@
 * [windows](#windows)
   * [数据库](#数据库)
+  * [硬盘](#硬盘)
 * [linux](#linux)
   * [数据库](#数据库)
   * [music](#music)
@@ -10,6 +11,9 @@
 * [heidisql](https://www.heidisql.com/download.php)  *图形mysql管理工具*
 * [Datagrip](https://www.jetbrains.com/datagrip/download/)
 * [DBeaver](https://github.com/dbeaver/dbeaver/releases)
+#### 硬盘
+* [WizTree](https://wiztreefree.com/) 硬盘文件查找分类工具
+* [diskGenius](https://www.diskgenius.cn/)  硬盘分区管理工具
 ## linux
 #### 数据库
 * [dbeaver](https://dbeaver.io/download/)
