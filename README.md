@@ -2,6 +2,8 @@
   * [数据库](#数据库)
   * [硬盘](#硬盘)
   * [文档](#文档)
+  * [视频](#视频)
+  * [下载](#下载)
 * [linux](#linux)
   * [数据库](#数据库)
   * [music](#music)
@@ -17,6 +19,10 @@
 * [diskGenius](https://www.diskgenius.cn/)  硬盘分区管理工具
 #### 文档
 * [Araxis Merge](https://www.araxis.com/merge/download.en)  文件内容对比工具
+#### 视频
+* [Camtasia 9](https://www.techsmith.com/video-editor.html)  屏幕录制
+#### 下载
+* [Motrix](https://github.com/agalwood/Motrix/releases)
 ## linux
 #### 数据库
 * [dbeaver](https://dbeaver.io/download/)
