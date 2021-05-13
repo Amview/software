@@ -8,11 +8,12 @@
 ## windows
 #### 数据库
 * [heidisql](https://www.heidisql.com/download.php)  *图形mysql管理工具*
-* []()
-* []()
+* [Datagrip](https://www.jetbrains.com/datagrip/download/)
+* [DBeaver](https://github.com/dbeaver/dbeaver/releases)
 ## linux
 #### 数据库
 * [dbeaver](https://dbeaver.io/download/)
+* [datagrip](https://www.jetbrains.com/datagrip/download/)
 #### music
 * [QQLinux](https://im.qq.com/linuxqq/index.html)
 * [QQMusic](https://y.qq.com/download/download.html)
