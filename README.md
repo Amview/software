@@ -1,7 +1,7 @@
 * [windows](#windows)
   * [数据库](#数据库)
   * [硬盘](#硬盘)
-  * [文件管理](#文件管理)
+  * [文档](#文档)
 * [linux](#linux)
   * [数据库](#数据库)
   * [music](#music)
@@ -15,7 +15,7 @@
 #### 硬盘
 * [WizTree](https://wiztreefree.com/) 硬盘文件查找分类工具
 * [diskGenius](https://www.diskgenius.cn/)  硬盘分区管理工具
-#### 文件管理
+#### 文档
 * [Araxis Merge](https://www.araxis.com/merge/download.en)  文件内容对比工具
 ## linux
 #### 数据库
